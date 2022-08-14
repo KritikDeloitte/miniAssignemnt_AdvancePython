@@ -1,0 +1,12 @@
+boto3==1.17.52
+alembic==0.9.10
+Flask==2.1.2
+Flask-Login==0.4.1
+Flask-Migrate==2.2.1
+Flask-SQLAlchemy==2.3.2
+Flask-JWT==0.3.2
+python-dateutil==2.7.3
+python-editor==1.0.3
+SQLAlchemy==1.2.9
+Werkzeug==2.0.3
+APScheduler==3.9.1
